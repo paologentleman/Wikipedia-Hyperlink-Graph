@@ -54,4 +54,4 @@ __[STEP2]__ Extend the graph to the nodes that belong to <img src="https://latex
 
 __[STEP3]__ Repeat Step2 up to the last category of the ranking. In the last step of the example you clearly see the weight update of the edge coming from node *E*.
 	
-![alt text](imgs/algorithm.PNG)
+![alt text](imgs/algorithm.png)
