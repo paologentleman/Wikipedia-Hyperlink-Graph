@@ -2,7 +2,7 @@
 
 In this project we perform an analysis of the Wikipedia Hyperlink graph. In particular, given extra information about the categories to which an article belongs to, we are curious to rank the articles according to some criteria. 
 
-For this purpose we use the Wikipedia graph released by the SNAP group.
+For this purpose we use the Wikipedia graph released by the SNAP group and available [here](https://snap.stanford.edu/data/wiki-topcats.html).
 
 <div style="text-align:center"><img src ="https://cryptobriefing.com/wp-content/uploads/2018/04/Wikipedia-and-Request-Network-enable-donors-to-donate-in-cryptocurrency.jpg" /></div>
 
